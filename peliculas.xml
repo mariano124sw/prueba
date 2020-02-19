@@ -1,0 +1,455 @@
+<?xml version="1.0"?>
+<peliculas>
+ <pelicula>
+  <ids>
+   <id>
+    <id>3038</id>
+    <titulo>12 HORAS PARA SOBREVIVIR SUBT</titulo>
+    <formato></formato>
+    <idioma>Ingles</idioma>
+    <horarios>
+     <horario>
+      <funcion>51358</funcion>
+      <dia>02.20.2020</dia>
+      <horario>20:10</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51359</funcion>
+      <dia>02.20.2020</dia>
+      <horario>22:30</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>3040</id>
+    <titulo>SALA PLATINUM 12HS PARA SOBREV</titulo>
+    <formato>SALA PLATINUM</formato>
+    <idioma>Ingles</idioma>
+    <horarios>
+     <horario>
+      <funcion>51379</funcion>
+      <dia>02.20.2020</dia>
+      <horario>12:10</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51377</funcion>
+      <dia>02.20.2020</dia>
+      <horario>17:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51375</funcion>
+      <dia>02.20.2020</dia>
+      <horario>22:00</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+  </ids>
+  <titulo>THE PURGE: ELECTION YEAR</titulo>
+  <tituloOriginal>THE PURGE: ELECTION YEAR</tituloOriginal>
+  <duracion>109</duracion>
+  <tipo>SAM16 C/R</tipo>
+  <genero>Thriller</genero>
+  <estreno>14/07/2016</estreno>
+  <extracto>Llega la nueva entrega de la saga que ha recaudado más de 200 millones de dólares alrededor del mundo. 12 Horas Para Sobrevivir: El año de la Elección (The Purge: Election Year),revela un nuevo capítulo de la aterradora historia en la que durante 12 horas,una vez al año,cualquier crimen es permitido.
+
+</extracto>
+  <poster>http://wp.cinemultiplex.com.ar/wp-content/plugins/frog-ws-import/img/pelicula-3038.png</poster>
+  <trailer>https://youtu.be/8tPsdY_BfP8</trailer>
+ </pelicula>
+ <pelicula>
+  <ids>
+   <id>
+    <id>3075</id>
+    <titulo>2D XTREMO ERA DE HIELO 5 CAST</titulo>
+    <formato></formato>
+    <idioma>Frances</idioma>
+    <horarios>
+     <horario>
+      <funcion>51336</funcion>
+      <dia>02.20.2020</dia>
+      <horario>13:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51337</funcion>
+      <dia>02.20.2020</dia>
+      <horario>15:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51338</funcion>
+      <dia>02.20.2020</dia>
+      <horario>17:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51339</funcion>
+      <dia>02.20.2020</dia>
+      <horario>19:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51340</funcion>
+      <dia>02.20.2020</dia>
+      <horario>21:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51341</funcion>
+      <dia>02.20.2020</dia>
+      <horario>23:00</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>3026</id>
+    <titulo>4D LA ERA DE HIELO 5 CAST</titulo>
+    <formato>4D</formato>
+    <idioma>Español</idioma>
+    <horarios>
+     <horario>
+      <funcion>51350</funcion>
+      <dia>02.20.2020</dia>
+      <horario>14:20</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51351</funcion>
+      <dia>02.20.2020</dia>
+      <horario>16:20</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51352</funcion>
+      <dia>02.20.2020</dia>
+      <horario>18:20</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51353</funcion>
+      <dia>02.20.2020</dia>
+      <horario>20:20</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51354</funcion>
+      <dia>02.20.2020</dia>
+      <horario>22:20</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>3020</id>
+    <titulo>LA ERA DE HIELO 5 CAST</titulo>
+    <formato></formato>
+    <idioma>Español</idioma>
+    <horarios>
+     <horario>
+      <funcion>51363</funcion>
+      <dia>02.20.2020</dia>
+      <horario>12:15</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51364</funcion>
+      <dia>02.20.2020</dia>
+      <horario>14:15</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51365</funcion>
+      <dia>02.20.2020</dia>
+      <horario>16:15</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+  </ids>
+  <titulo>ICE AGE 5: COLLISION COURSE</titulo>
+  <tituloOriginal>ICE AGE 5: COLLISION COURSE</tituloOriginal>
+  <duracion>100</duracion>
+  <tipo>ATP</tipo>
+  <genero>Animacion</genero>
+  <estreno>07/07/2016</estreno>
+  <extracto>La épica búsqueda de Scrat por su avellana,lo lleva al espacio donde accidentalmente desencadena una serie de eventos cósmicos que transformarán y amenazaran la vida en el Planeta Tierra. Para salvarse,Sid,Manny,Diego y el resto de la manada deben salir de su casa y se embarcan en una aventura llena de comedia,aventura y de viajar a tierras exóticas y además de encontrarse con una serie de nuevos personajes pintorescos.</extracto>
+  <poster>http://wp.cinemultiplex.com.ar/wp-content/plugins/frog-ws-import/img/pelicula-3075.png</poster>
+  <trailer>https://www.youtube.com/watch?v=BM914iQ_u9Y&amp;spfreload=10</trailer>
+ </pelicula>
+ <pelicula>
+  <ids>
+   <id>
+    <id>3060</id>
+    <titulo>3D LA LEYENDA DE TARZAN CAST</titulo>
+    <formato>3D</formato>
+    <idioma>Español</idioma>
+    <horarios>
+     <horario>
+      <funcion>51342</funcion>
+      <dia>02.20.2020</dia>
+      <horario>12:30</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51343</funcion>
+      <dia>02.20.2020</dia>
+      <horario>14:45</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51344</funcion>
+      <dia>02.20.2020</dia>
+      <horario>19:35</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51345</funcion>
+      <dia>02.20.2020</dia>
+      <horario>22:00</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+  </ids>
+  <titulo>THE LEGEND OF TARZAN</titulo>
+  <tituloOriginal>THE LEGEND OF TARZAN</tituloOriginal>
+  <duracion>110</duracion>
+  <tipo>SAM13</tipo>
+  <genero>Aventura</genero>
+  <estreno>21/07/2016</estreno>
+  <extracto>Tarzan,que ya lleva una nueva vida en Londres,es llamado a su antiguo hogar para investigar una serie de actividades de un campo minado. En realidad,todo forma parte de un plan de venganza y avaricia ideado por el capitán belga Leon Rom.</extracto>
+  <poster>http://wp.cinemultiplex.com.ar/wp-content/plugins/frog-ws-import/img/pelicula-3060.png</poster>
+  <trailer>https://youtu.be/muGR3FcH6QU</trailer>
+ </pelicula>
+ <pelicula>
+  <ids>
+   <id>
+    <id>3008</id>
+    <titulo>DIA DE LA INDEPENDENCIA 2 CAST</titulo>
+    <formato></formato>
+    <idioma>Español</idioma>
+    <horarios>
+     <horario>
+      <funcion>51346</funcion>
+      <dia>02.20.2020</dia>
+      <horario>13:20</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51347</funcion>
+      <dia>02.20.2020</dia>
+      <horario>16:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51348</funcion>
+      <dia>02.20.2020</dia>
+      <horario>18:30</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>3009</id>
+    <titulo>DIA DE LA INDEPENDENCIA 2 SUBT</titulo>
+    <formato></formato>
+    <idioma>Ingles</idioma>
+    <horarios>
+     <horario>
+      <funcion>51349</funcion>
+      <dia>02.20.2020</dia>
+      <horario>21:30</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+  </ids>
+  <titulo>INDEPENDENCE DAY 2</titulo>
+  <tituloOriginal>INDEPENDENCE DAY 2</tituloOriginal>
+  <duracion>119</duracion>
+  <tipo>SAM13</tipo>
+  <genero>Ciencia Ficcion</genero>
+  <estreno>23/06/2016</estreno>
+  <extracto>Utilizando tecnología obtenida de los extraterrestres,las naciones de la Tierra,previendo el regreso de los invasores,han colaborado en un gigantesco programa de defensa para proteger el planeta. Pero nada puede prepararnos para hacer frente a la avanzada e inaudita fuerza de los atacantes. Sólo la inventiva de unos pocos hombres y mujeres valientes puede rescatar a nuestro mundo del borde de la extinción...
+
+</extracto>
+  <poster>http://wp.cinemultiplex.com.ar/wp-content/plugins/frog-ws-import/img/pelicula-3008.png</poster>
+  <trailer>https://www.youtube.com/channel/UCw-BtsrkzBXuN5w77HuZ7zg</trailer>
+ </pelicula>
+ <pelicula>
+  <ids>
+   <id>
+    <id>3084</id>
+    <titulo>JASON BOURNE 5 CAST</titulo>
+    <formato></formato>
+    <idioma>Español</idioma>
+    <horarios>
+     <horario>
+      <funcion>51366</funcion>
+      <dia>02.20.2020</dia>
+      <horario>12:45</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51367</funcion>
+      <dia>02.20.2020</dia>
+      <horario>15:15</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51368</funcion>
+      <dia>02.20.2020</dia>
+      <horario>17:50</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51369</funcion>
+      <dia>02.20.2020</dia>
+      <horario>20:30</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51370</funcion>
+      <dia>02.20.2020</dia>
+      <horario>23:00</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>3085</id>
+    <titulo>JASON BOURNE 5 SUBT</titulo>
+    <formato></formato>
+    <idioma>Ingles</idioma>
+    <horarios>
+     <horario>
+      <funcion>51371</funcion>
+      <dia>02.20.2020</dia>
+      <horario>13:30</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51372</funcion>
+      <dia>02.20.2020</dia>
+      <horario>16:20</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51373</funcion>
+      <dia>02.20.2020</dia>
+      <horario>19:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51374</funcion>
+      <dia>02.20.2020</dia>
+      <horario>21:30</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>3086</id>
+    <titulo>SALA PLATINUM JASON BOURNE 5</titulo>
+    <formato>SALA PLATINUM</formato>
+    <idioma>Ingles</idioma>
+    <horarios>
+     <horario>
+      <funcion>51378</funcion>
+      <dia>02.20.2020</dia>
+      <horario>14:30</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51376</funcion>
+      <dia>02.20.2020</dia>
+      <horario>19:30</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+  </ids>
+  <titulo>JASON BOURNE 5</titulo>
+  <tituloOriginal>JASON BOURNE 5</tituloOriginal>
+  <duracion>123</duracion>
+  <tipo>SAM13 C/R</tipo>
+  <genero>Acción</genero>
+  <estreno>04/08/2016</estreno>
+  <extracto>Matt Damon regresa a su papel más recordado en Jason Bourne. Paul Greengrass,director de La Supremacía Bourne y El Ultimatum de Bourne,una vez más se une con Damon para el siguiente capítulo de la ya franquicia de Universal Pictures. Juntos nos mostrarán la historia donde el agente más letal de la CIA resurge de entre las sombras.
+
+</extracto>
+  <poster>http://wp.cinemultiplex.com.ar/wp-content/plugins/frog-ws-import/img/pelicula-3084.png</poster>
+  <trailer>https://youtu.be/M3jM9tIgh6Q</trailer>
+ </pelicula>
+ <pelicula>
+  <ids>
+   <id>
+    <id>2088</id>
+    <titulo>YO ANTES DE TI Castellano</titulo>
+    <formato></formato>
+    <idioma>Español</idioma>
+    <horarios>
+     <horario>
+      <funcion>51355</funcion>
+      <dia>02.20.2020</dia>
+      <horario>12:30</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51356</funcion>
+      <dia>02.20.2020</dia>
+      <horario>15:00</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51357</funcion>
+      <dia>02.20.2020</dia>
+      <horario>17:30</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+   <id>
+    <id>2089</id>
+    <titulo>YO ANTES DE TI Subtitulada</titulo>
+    <formato></formato>
+    <idioma>Ingles</idioma>
+    <horarios>
+     <horario>
+      <funcion>51360</funcion>
+      <dia>02.20.2020</dia>
+      <horario>18:25</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51361</funcion>
+      <dia>02.20.2020</dia>
+      <horario>20:45</horario>
+      <complejo>189</complejo>
+     </horario>
+     <horario>
+      <funcion>51362</funcion>
+      <dia>02.20.2020</dia>
+      <horario>23:00</horario>
+      <complejo>189</complejo>
+     </horario>
+    </horarios>
+   </id>
+  </ids>
+  <titulo>ME BEFORE YOU</titulo>
+  <tituloOriginal>ME BEFORE YOU</tituloOriginal>
+  <duracion>110</duracion>
+  <tipo>SAM13</tipo>
+  <genero>Drama</genero>
+  <estreno>24/01/2013</estreno>
+  <extracto>La estrafalaria y creativa Louisa “Lou” Clark (Clarke) de 26 años vive en un pintoresco pueblo en la campiña inglesa. Sin rumbo en su vida pero con una familia unida,va de trabajo en trabajo para que su familia pueda llegar a fin de mes. Su alegre predisposición se pone a prueba,no obstante,cuando se enfrenta a su desafío laboral más reciente. Al aceptar un trabajo en el “castillo” del pueblo,se convierte en la cuidadora y compañera de Will Traynor (Claflin),un joven y acaudalado banquero que quedó confinado a una silla de ruedas luego de un accidente hace dos años,y cuyo mundo entero cambió dramáticamente en un abrir y cerrar de ojos. El ahora cínico Will,ya no el alma aventurero que alguna vez fue,se ha dado prácticamente por vencido. Eso es hasta que Lou resuelve mostrarle que vale la pena vivir la vida. Al lanzarse juntos a una serie de aventuras,tanto Lou como Will tendrán más de lo que esperaban y sus vidas —y corazones—cambiarán de un modo que ninguno de los dos pudiera</extracto>
+  <poster>http://wp.cinemultiplex.com.ar/wp-content/plugins/frog-ws-import/img/pelicula-2088.png</poster>
+  <trailer>https://youtu.be/h63OXvlQQ3o</trailer>
+ </pelicula>
+</peliculas>
